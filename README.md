@@ -1,4 +1,4 @@
-# 🛠️ Hackathon Attendance System
+# 🛠️ Attendance System
 
 A lightweight, GUI-powered Python application to manage QR-based attendance tracking during hackathons or similar events. It includes tools to:
 
