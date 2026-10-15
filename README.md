@@ -1,6 +1,6 @@
 # 🛠️ Attendance System
 
-This Project was really a good experience for me to test my skills that i had learned and bonus to that got to use it as a hackathon's official Attendence system
+This Project was really a good experience for me to test my skills that i had learned and bonus to that got to use it as a hackathon's official Attendence system at (Bernhack 2025)
 A lightweight, GUI-powered Python application to manage QR-based attendance tracking during hackathons or similar events. It includes tools to:
 
 - ✅ Generate unique QR codes for participants, organizers, and volunteers.
